@@ -1,0 +1,6 @@
+**.pyc
+.ipynb*
+alpaca_trades.log
+.DS_Store
+__pycache__
+*.csv
